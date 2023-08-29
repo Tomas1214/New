@@ -1,0 +1,49 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+body {
+  font-family:'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+h2 {
+  color:#2e64a1;
+  font-weight: 400;
+}
+
+.holder {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #2e64a1;
+  padding: 16px 0;
+}
+
+header h1 {
+  color:white;
+  font-size: 40px;
+  font-weight: 100;
+  font-style: italic;
+  display: inline-block;
+  position: relative;
+  bottom: 35px;
+  margin-left: 10px;
+}
+
+footer {
+  background-color: #ccc;
+  clear:both;
+  color:#333;
+  text-align: center;
+  padding: 5px 0;
+  margin-top: 20px;
+}
