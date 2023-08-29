@@ -17,7 +17,7 @@ const NovedadesPage = (props) => {
         cargarNovedades();
     }, []);
     return (
-        <section className="wider">
+        <main className="holder">
             <h2>Novedades</h2>
                 <div className="menu">
                     {
@@ -29,7 +29,7 @@ const NovedadesPage = (props) => {
                         )
                     }
                 </div>
-        </section>
+        </main>
     )
 };
 
