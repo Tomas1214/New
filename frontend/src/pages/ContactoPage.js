@@ -67,11 +67,8 @@ const ContactoPage = (props) => {
                 <h2>Otras vías de comunicación</h2>
                 <p>También puede contactarse con nosotros usando los siguientes medios</p>
                 <ul>
-                    <li>Teléfono: 12345678</li>
-                    <li>Email: contacto@transportes.com.ar</li>
-                    <li>facebook:</li>
-                    <li>Twitter:</li>
-                    <li>Skype:</li>
+                    <li>Teléfono: 29347643</li>
+                    <li>Transportes@hotmail.com</li>
                 </ul>
             </div>
         </main>
